@@ -1,35 +1,14 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Luciano Ardanaz Sgalla
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, estoy cursando mi segundo de la tecnicatura en programacion universitaria, termine la secundaria en 2022 y empeze la univercidad justo despues, elegi la unahur debido a la comodidad que me trae tener una univercidad cerca y elegi la carrera por gusto personal sin saber casi nada de programacion, ni sisquiera un curso este segundo año esta siendo con diferencia en el que mas cosas siento que estoy aprendiendo.
+Como podras notar por la foto de perfil o la foto que esta justo debajo de este texto, tengo mucho aprecio por los gatos, especialmente por mis dos mascotas Fuffy y Cleo
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Cleo
+![Cleo Imagen](./assets/Cleo.jfif)
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Fuffy
+![Fuffy Imagen](./assets/Fuffy1.png)
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Mi pasatiempo mas notorio es jugar videojuegos, mas concretamente, juegos de un solo jugador de corta duracion, entre mis favoritos se encuentran Katana Zero, Celeste y Nuclear Throne, este ultimo perteneciendo a mi genero de videojuegos favoritos RogueLikes, esto debido a que en ellos, a lo largo de multiples intentos, se busca pasarse el juego en si, obligandote a aprender sobre el juego mediamte un sistema de muerte permenente que al perder te obliga a volver a intentar desde el principio, lo que lleva a un ciclo de intentos fallidos y aprendizaje constante, hasta lograr tu objetivo.
